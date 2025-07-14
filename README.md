@@ -16,10 +16,10 @@ A simple web app that builds detailed user personas based on a Reddit user’s p
 ## How to Use
 
 -> Enter the full Reddit profile URL (e.g., https://www.reddit.com/user/kojied/).   
--> Click Generate Persona.
--> Wait while the app scrapes Reddit and generates the persona using AI.
--> View the generated persona directly in the app.
--> Download the persona as a TXT or PDF file if needed.
+-> Click Generate Persona.  
+-> Wait while the app scrapes Reddit and generates the persona using AI.   
+-> View the generated persona directly in the app.   
+-> Download the persona as a TXT or PDF file if needed.  
 
 
 
