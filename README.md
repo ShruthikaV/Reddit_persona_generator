@@ -45,3 +45,8 @@ PRAW (Python Reddit API Wrapper) for Reddit scraping
 Google Gemini API for AI-generated content    
 FPDF for PDF generation     
 
+
+Streamlit dashboard:
+#### <img width="2876" height="1566" alt="image" src="https://github.com/user-attachments/assets/043fd3d4-d6d6-444f-835f-7c4be13fbeeb" />
+
+
