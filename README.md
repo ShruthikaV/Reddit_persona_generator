@@ -1,4 +1,4 @@
-<img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/4edcd905-df75-44da-84a0-e971ef4cb6b1" /><img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/ee2554e7-22d0-403b-800d-ae80ddbb3f74" /># Reddit Persona Generator 🧠
+# Reddit Persona Generator 🧠
 
 A simple web app that builds detailed user personas based on a Reddit user’s posts and comments. It scrapes Reddit data, then uses Google Gemini AI to analyze the content and generate insights about the user’s personality, interests, motivations, and more. The results can be viewed in the app or downloaded as text and PDF files.
 
