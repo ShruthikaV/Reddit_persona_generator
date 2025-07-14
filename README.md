@@ -2,6 +2,11 @@
 
 A simple web app that builds detailed user personas based on a Reddit user’s posts and comments. It scrapes Reddit data, then uses Google Gemini AI to analyze the content and generate insights about the user’s personality, interests, motivations, and more. The results can be viewed in the app or downloaded as text and PDF files.
 
+## App link: 
+```
+https://redditpersonagenerator.streamlit.app/
+```
+
 ## Features
 -> Scrapes up to 100 recent comments and 50 recent posts from any public Reddit user.   
 -> Uses AI to generate a rich, narrative persona describing the user’s traits and behavior.   
