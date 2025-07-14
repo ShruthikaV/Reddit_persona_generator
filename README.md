@@ -47,8 +47,8 @@ FPDF for PDF generation
 
 
 Streamlit dashboard:
-###<img width="2876" height="1566" alt="image" src="https://github.com/user-attachments/assets/043fd3d4-d6d6-444f-835f-7c4be13fbeeb" />
-###<img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/217c0c24-6ce2-4757-9686-8f044b79fb1b" />
+### <img width="2876" height="1566" alt="image" src="https://github.com/user-attachments/assets/043fd3d4-d6d6-444f-835f-7c4be13fbeeb" />
+### <img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/217c0c24-6ce2-4757-9686-8f044b79fb1b" />
 
 
 
