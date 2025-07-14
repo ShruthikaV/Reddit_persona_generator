@@ -31,7 +31,17 @@ REDDIT_CLIENT_SECRET=your_reddit_client_secret
 REDDIT_USER_AGENT=your_app_user_agent
 GEMINI_API_KEY=your_google_gemini_api_key
 ```
+4. Run the app with:
+```
+streamlit run app.py
+```
 
 
+## Technologies Used:
 
+Python   
+Streamlit (for the web app UI)    
+PRAW (Python Reddit API Wrapper) for Reddit scraping    
+Google Gemini API for AI-generated content    
+FPDF for PDF generation     
 
