@@ -1,5 +1,5 @@
-praw
-python-dotenv
-tqdm
-google-generativeai
 streamlit
+praw
+google-generativeai
+fpdf
+python-dotenv
